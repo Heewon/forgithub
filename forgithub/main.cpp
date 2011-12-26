@@ -12,8 +12,6 @@ using namespace std;
 int main ()
 {
     
-    ertuiopldfghjkl;lkjhgf
-    dhkfsdal;eklsdfm,
 
     cout<< "wowwwow";
     return 0;
