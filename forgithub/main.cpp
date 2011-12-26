@@ -11,8 +11,11 @@ using namespace std;
 
 int main ()
 {
+    
+    ertuiopldfghjkl;lkjhgf
+    dhkfsdal;eklsdfm,
 
-    cout<< "wowwwowww";
+    cout<< "wowwwow";
     return 0;
 }
 
